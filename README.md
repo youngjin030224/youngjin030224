@@ -71,35 +71,22 @@ AI 기반 개발 학습 플랫폼
 
 ---
 
-## 🐣 Dooree's Status
+## 🐣 Dooree
 
-```yaml
-name: Dooree
+```java
+public class Dooree {
 
-role:
-  - Backend Developer
-  - AI Engineer
+    private final String role = "Backend Developer";
 
-currently_working_on:
-  - COBIP
-  - AWS Infrastructure
-  - AI Server with Ollama
+    public void currentProject() {
+        System.out.println("COBIP");
+    }
 
-main_stack:
-  - Java
-  - Spring Boot
-  - AWS
-  - Docker
-
-currently_learning:
-  - RAG
-  - Cloud Architecture
-  - LLM Applications
-
-status: coding...
+    public void currentStudy() {
+        System.out.println("AWS, Docker, Ollama");
+    }
+}
 ```
-
-<div align="center">
 
 ### 🚀 Keep Building, Keep Learning
 
