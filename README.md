@@ -110,26 +110,6 @@ AI 기반 개발 학습 플랫폼
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=youngjin030224&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngjin030224&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youngjin030224&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🎯 2026 Goals
 
 - AWS 기반 서비스 운영 역량 강화
