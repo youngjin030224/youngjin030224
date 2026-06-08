@@ -83,8 +83,4 @@ AI 기반 개발 학습 플랫폼
   <img src="https://render.gitanimals.org/farms/youngjin030224"/>
 </a>
 
-<br>
-
-⭐ Every commit makes my farm bigger.
-
 </div>
