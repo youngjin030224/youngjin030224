@@ -77,18 +77,6 @@ AI 기반 개발 학습 플랫폼
 
 ### 🏡 Dooree's Commit Farm
 
-```java
-public class Dooree {
-
-    public void everyday() {
-        code();
-        commit();
-        growAnimals();
-    }
-
-}
-```
-
 매일의 커밋으로 동물 친구들을 키우고 있습니다 🐣
 
 <a href="https://github.com/devxb/gitanimals">
