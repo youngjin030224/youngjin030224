@@ -31,9 +31,9 @@
 | **Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **Database** | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | **AI** | ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **Tools** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white) |
 
 ---
 
@@ -63,17 +63,6 @@ AI 기반 개발 학습 플랫폼
 
 ---
 
-## 🎯 2026 Goals
-
-- AWS 기반 서비스 운영 역량 강화
-- AI 서버 구축 및 RAG 시스템 고도화
-- Spring Boot 대규모 프로젝트 경험
-- 웹 개발자 취업
-
----
-
-
-
 ## 📫 Contact
 
 - 📧 **suya0952@naver.com**
@@ -82,13 +71,51 @@ AI 기반 개발 학습 플랫폼
 
 ---
 
-> "어제보다 더 나은 코드를 작성하자."
+## 🐣 Dooree's Status
+
+```yaml
+name: Dooree
+
+role:
+  - Backend Developer
+  - AI Engineer
+
+currently_working_on:
+  - COBIP
+  - AWS Infrastructure
+  - AI Server with Ollama
+
+main_stack:
+  - Java
+  - Spring Boot
+  - AWS
+  - Docker
+
+currently_learning:
+  - RAG
+  - Cloud Architecture
+  - LLM Applications
+
+status: coding...
+```
+
+<div align="center">
+
+### 🚀 Keep Building, Keep Learning
+
+*"어제보다 더 나은 코드를 작성하자."*
+
+</div>
 
 ---
 
 ## 🐾 GitAnimals
 
 <div align="center">
+
+<p>
+매일의 커밋이 작은 동물들을 키웁니다 🐣
+</p>
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/youngjin030224"/>
