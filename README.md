@@ -12,17 +12,7 @@
 
 ---
 
-## 🐾 GitAnimals
 
-<div align="center">
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/youngjin030224"/>
-</a>
-
-</div>
-
----
 
 ## 🚀 About Me
 
@@ -128,3 +118,17 @@ AI 기반 개발 학습 플랫폼
 ---
 
 > "어제보다 더 나은 코드를 작성하자."
+
+
+---
+## 🐾 GitAnimals
+
+<div align="center">
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/youngjin030224"/>
+</a>
+
+</div>
+
+
