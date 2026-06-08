@@ -12,8 +12,6 @@
 
 ---
 
-
-
 ## 🚀 About Me
 
 - 🎓 영진전문대학교 컴퓨터정보계열
@@ -28,48 +26,14 @@
 
 ## 🛠 Tech Stack
 
-### Backend
-
-<p align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
-</p>
-
-### Frontend
-
-<p align="center">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### Database
-
-<p align="center">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
-
-### Cloud & DevOps
-
-<p align="center">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
-### AI
-
-<p align="center">
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
+| Category | Technologies |
+|-----------|-------------|
+| **Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Database** | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **AI** | ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Tools** | GitHub · Postman · Notion · Miro |
 
 ---
 
@@ -83,20 +47,19 @@ AI 기반 개발 학습 플랫폼
 
 - 기능 템플릿 학습
 - AI 코드 피드백
-- Docker 기반 실습 환경
+- Docker 기반 실습 환경 제공
 - 테스트 케이스 자동 채점
 - 학습 진행도 관리
 
-#### Tech
+#### Architecture
 
-`Spring Boot`
-`Spring Security`
-`JWT`
-`MariaDB`
-`Redis`
-`AWS S3`
-`Docker`
-`Ollama`
+| Area | Stack |
+|--------|--------|
+| Backend | Spring Boot · Spring Security · JWT |
+| Database | MariaDB · Redis |
+| Infrastructure | AWS EC2 · AWS S3 · Docker |
+| AI | Ollama |
+| Communication | REST API |
 
 ---
 
@@ -109,18 +72,38 @@ AI 기반 개발 학습 플랫폼
 
 ---
 
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=youngjin030224&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngjin030224&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=youngjin030224&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
 ## 📫 Contact
 
-- 📧 suya0952@naver.com
-- 🐙 GitHub : github.com/youngjin030224
-- 😺 Developer Name : Dooree
+- 📧 **suya0952@naver.com**
+- 🐙 **GitHub** : https://github.com/youngjin030224
+- 😺 **Developer Name** : Dooree
 
 ---
 
 > "어제보다 더 나은 코드를 작성하자."
 
-
 ---
+
 ## 🐾 GitAnimals
 
 <div align="center">
@@ -130,5 +113,3 @@ AI 기반 개발 학습 플랫폼
 </a>
 
 </div>
-
-
