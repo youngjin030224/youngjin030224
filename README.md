@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Dooree&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 
-<div align="center">
 
 # 👋 Welcome to Dooree's GitHub
 
